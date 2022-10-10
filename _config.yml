@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   HELLO WORLD!
 twitter_username: username
 github_username: Bobblite
-minimal_mistakes_skin: neon
+minimal_mistakes_skin: "neon"
 search: true
 
 # Build settings
